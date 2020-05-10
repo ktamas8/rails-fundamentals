@@ -54,7 +54,8 @@ List generate command options:
 - we could have done this by hand - generators are just making it simpler
 
 ## Examine how server requests are handled
-TODO: add the screenshot here
+
+![rails-architecture](./../assets/rails-architecture.png)
 
 - Add a `static.html` file to public folder
 - Show in web browser that it shows up
