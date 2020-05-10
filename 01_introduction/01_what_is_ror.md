@@ -12,7 +12,7 @@
 
 ## DRY Code
 - don't repeat yourself aka DRY
-- concise, consistent code that is easz to maintain
+- concise, consistent code that is easy to maintain
 - built DRY and encourages DRY
 
 ## Convention Over Configuration
